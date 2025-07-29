@@ -1,5 +1,5 @@
 # TCLaneNet Pytorch
- Pytorch implementation of "[TCLaneNet: Task-conditioned Lane Detection Network Driven by Vibration Information](https://arxiv.org/abs/1908.00821)"
+ Pytorch implementation of "[TCLaneNet: Task-conditioned Lane Detection Network Driven by Vibration Information](https://ieeexplore.ieee.org/document/10411125)"
 
 <img src="./img/TCLaneNet.png" alt="drawing" width="750"/>
 
